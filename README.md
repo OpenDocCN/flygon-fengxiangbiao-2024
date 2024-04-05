@@ -10,10 +10,10 @@
         飞龙：负责人名称
         wizardforcel：负责人 Github 用户名
         562826179：负责人 QQ
-        flygon-fengxiaobiao-2024：ApacheCN 的 Github 仓库名称
-        flygon-fengxiaobiao-2024：DockerHub 仓库名称
-        flygon-fengxiaobiao-2024：PYPI 包名称
-        flygon-fengxiaobiao-2024：NPM 包名称
+        flygon-fengxiangbiao-2024：ApacheCN 的 Github 仓库名称
+        flygon-fengxiangbiao-2024：DockerHub 仓库名称
+        flygon-fengxiangbiao-2024：PYPI 包名称
+        flygon-fengxiangbiao-2024：NPM 包名称
     
     CNAME
     
@@ -23,11 +23,11 @@
     
         龙哥风向标 2024：文档中文名
         #009d9c：显示颜色
-        flygon-fengxiaobiao-2024：ApacheCN 的 Github 仓库名称
+        flygon-fengxiangbiao-2024：ApacheCN 的 Github 仓库名称
 
     asset/docsify-flygon-footer.js
     
-        flygon-fengxiaobiao-2024：ApacheCN 的 Github 仓库名称
+        flygon-fengxiangbiao-2024：ApacheCN 的 Github 仓库名称
 -->
 
 # 龙哥风向标 2024
@@ -43,16 +43,16 @@
 ### Docker
 
 ```
-docker pull apachecn0/flygon-fengxiaobiao-2024
-docker run -tid -p <port>:80 apachecn0/flygon-fengxiaobiao-2024
+docker pull apachecn0/flygon-fengxiangbiao-2024
+docker run -tid -p <port>:80 apachecn0/flygon-fengxiangbiao-2024
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g flygon-fengxiaobiao-2024
-flygon-fengxiaobiao-2024 <port>
+npm install -g flygon-fengxiangbiao-2024
+flygon-fengxiangbiao-2024 <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
